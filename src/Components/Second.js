@@ -6,7 +6,7 @@ class Second extends Component {
         return (
             <div>
                 <p>This Is Second Page</p>
-                <Link to="/home">Go to First</Link>
+                <Link to="/home">Go to First page</Link>
             </div>
         )
     }
