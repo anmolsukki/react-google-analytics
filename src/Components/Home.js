@@ -6,7 +6,7 @@ class Home extends Component {
         return (
             <div>
                 <p>This Is First Page</p>
-                <Link to="/second">Go to Second</Link>
+                <Link to="/second">Go to Second Page</Link>
             </div>
         )
     }
